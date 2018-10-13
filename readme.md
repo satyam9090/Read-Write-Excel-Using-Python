@@ -6,7 +6,7 @@ If you want to read, write, and perform more operations like formatting while wr
 This package is for reading data and formatting information from Excel files (ie: .xls)
   <ul>
     <li>Step 1.</li>
-      <p>Download Current Version of xlrd module through the given link <a href="https://pypi.python.org/pypi/xlrd/" target="_blank">xlrd</a></p>
+      <p>Download Current Version of xlrd module through the given link <a href="https://pypi.python.org/pypi/xlrd/">xlrd</a></p>
     <li>Step 2.</li>
       <p>Extract the ZIP folder at some location.</p>
     <li>Step 3.</li>
